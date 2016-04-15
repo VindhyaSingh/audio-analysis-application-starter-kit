@@ -7,7 +7,7 @@ declared-services:
     label: S2T-Vindhya
     plan: standard
 applications:
-- name: audio-analysis
+- name: AudioAnalysis-Vindhya
   path: .
   command: npm start
   memory: 512M
